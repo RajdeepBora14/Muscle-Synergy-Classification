@@ -4,3 +4,4 @@ The study focuses on extracting muscle synergy from electromyographic (EMG) sign
 
 
 ### The above work recently got accepted as a paper for the upcoming SPIN 2024, to be held at Amity University, Noida, Delhi NCR from March 21st, 2024, to March 22nd, 2024. 
+Attached herewith in this repository is the copy of the final submission of the paper.
